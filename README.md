@@ -134,18 +134,15 @@ online-retail-powerbi/
 ├── data/
 │   ├── Online_Retail_Cleaned.csv      (406K rows, production-ready)
 │   ├── data-dictionary.md             (Column definitions)
-│   ├── cleaning-notes.md              (ETL documentation)
 │   └── raw-data/
 │       └── Online_Retail_Raw.xlsx     (Original data)
 │
-├── docs/ (Optional)
-│   ├── PROJECT_DOCUMENTATION.md
-│   ├── ETL_PIPELINE.md
-│   ├── DAX_FORMULAS.md
-│   └── DASHBOARD_GUIDE.md
-│
-└── scripts/ (Optional)
-    └── data_cleaning.py
+├── docs/ 
+   ├── PROJECT_DOCUMENTATION.md
+   ├── ETL_PIPELINE.md
+   └── DAX_FORMULAS.md
+   
+
 ```
 
 ---
@@ -198,8 +195,6 @@ online-retail-powerbi/
 ## 💻 Technologies Used
 
 - **Power BI Desktop** - Dashboard & visualization
-- **Python** - Data cleaning (pandas, numpy)
-- **SQL** - Data analysis (optional)
 - **Git** - Version control
 - **CSV** - Data storage format
 
@@ -241,45 +236,11 @@ online-retail-powerbi/
 
 ---
 
-## 🚀 Future Enhancements
-
-- [ ] Add real-time data refresh
-- [ ] Implement predictive models
-- [ ] Add customer churn analysis
-- [ ] RFM (Recency, Frequency, Monetary) analysis
-- [ ] Deploy API for integration
-- [ ] Create mobile-friendly dashboard
-
----
-
 ## 📄 License
 
 MIT License - Free to use, modify, and distribute
-
 ---
 
-## 👨‍💻 About
-
-**Role:** Data Engineer / Business Intelligence Developer  
-**Location:** Cairo, Egypt  
-**Project Type:** Final Year Computer Science Graduation Project (2025)
-
-**Contact:**
-- 📧 Email: [your.email@example.com]
-- 🔗 LinkedIn: [your-linkedin-profile]
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
-## 🌟 Show Your Support
-
-If this project helped you learn Power BI or data engineering:
-- ⭐ Star this repository
-- 🔗 Share with others
-- 💬 Provide feedback
-- 🐛 Report issues
-
----
 
 **Built with precision. Designed for impact. Ready for production.** ✨
 
@@ -288,4 +249,3 @@ If this project helped you learn Power BI or data engineering:
 ---
 
 **Last Updated:** December 23, 2025  
-**Status:** ✅ Production Ready
