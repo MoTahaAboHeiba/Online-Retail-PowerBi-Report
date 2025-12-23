@@ -87,7 +87,7 @@ Data Quality:          100% (zero nulls)
 | Component | Technology |
 |-----------|-----------|
 | Data Source | CSV (UCI Dataset) |
-| ETL | Python + Power Query |
+| ETL | Power Query |
 | BI Platform | Power BI Desktop |
 | Dashboard | 3 pages, 30+ visuals |
 | Calculations | 5 DAX measures, 3 columns |
