@@ -246,4 +246,4 @@ ORDER BY Revenue DESC;
 
 **Last Updated:** December 23, 2025  
 **Version:** 1.0  
-**Contact:** [Your email for data-related questions]
+**Contact:** mohamed-aboheiba@outlook.com
