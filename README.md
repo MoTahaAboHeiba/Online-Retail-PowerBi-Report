@@ -19,11 +19,11 @@ Build an **enterprise-grade dashboard** that transforms raw data into actionable
 
 ### **ACTION**
 Created a **3-page interactive Power BI dashboard** with:
-- ✅ Production-ready ETL pipeline (541K → 406K clean rows)
-- ✅ 100% validated data (zero nulls, zero duplicates)
-- ✅ 30+ professional visualizations
-- ✅ 5 DAX measures + 3 calculated columns
-- ✅ Advanced interactivity (drill-down, slicers, filters)
+-  Production-ready ETL pipeline (541K → 406K clean rows)
+-  100% validated data (zero nulls, zero duplicates)
+-  30+ professional visualizations
+- 5 DAX measures + 3 calculated columns
+-  Advanced interactivity (drill-down, slicers, filters)
 
 ### **RESULT**
 **£9.73M revenue insight** | **4,372 customers segmented** | **85% data coverage** | **3 actionable dashboards**
@@ -149,19 +149,19 @@ online-retail-powerbi/
 
 ## 🎓 What This Demonstrates
 
-✅ **Data Engineering**
+**Data Engineering**
 - ETL pipeline design & execution
 - Data cleaning & validation at scale
 - Feature engineering (8 new columns)
 - 100% quality assurance
 
-✅ **Business Intelligence**
+ **Business Intelligence**
 - Professional dashboard architecture
 - Advanced DAX formulas
 - Interactive visualization design
 - User experience optimization
 
-✅ **Professional Skills**
+ **Professional Skills**
 - Complete documentation
 - Business acumen & storytelling
 - Technical communication
@@ -224,7 +224,7 @@ online-retail-powerbi/
 
 ---
 
-## ✅ Quality Metrics
+##  Quality Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -232,7 +232,7 @@ online-retail-powerbi/
 | Data Validity | 100% (all values valid) |
 | Data Uniqueness | 100% (no duplicates) |
 | Time Coverage | 13 months complete |
-| Production Ready | ✅ Yes |
+| Production Ready |  Yes |
 
 ---
 
@@ -242,10 +242,8 @@ MIT License - Free to use, modify, and distribute
 ---
 
 
-**Built with precision. Designed for impact. Ready for production.** ✨
+**Built with precision. Designed for impact. Ready for production.** 
 
 👉 **[Explore the Dashboard](https://app.powerbi.com/links/SGgKQbvxT0?ctid=5f593c84-cad4-46c8-b3de-321c3e829a99&pbi_source=linkShare)**
 
----
-
-**Last Updated:** December 23, 2025  
+ 
