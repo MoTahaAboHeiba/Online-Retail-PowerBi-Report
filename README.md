@@ -127,16 +127,16 @@ online-retail-powerbi/
 │
 ├── README.md                          (This file)
 │
-├── powerbi/
+├── Power-Bi/
 │   └── Online_Retail_Analysis.pbix    (Main dashboard)
 │
-├── data/
+├── Data/
 │   ├── Online_Retail_Cleaned.csv      (406K rows, production-ready)
 │   ├── data-dictionary.md             (Column definitions)
-│   └── raw-data/
+│   └── Raw-Data/
 │       └── Online_Retail_Raw.xlsx     (Original data)
 │
-├── docs/ 
+├── Docs/ 
    ├── PROJECT_DOCUMENTATION.md
    └── DAX_FORMULAS.md
    
