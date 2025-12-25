@@ -126,7 +126,6 @@ Click → **[Live Dashboard](https://app.powerbi.com/links/SGgKQbvxT0?ctid=5f593
 online-retail-powerbi/
 │
 ├── README.md                          (This file)
-├── LICENSE                            (MIT License)
 │
 ├── powerbi/
 │   └── Online_Retail_Analysis.pbix    (Main dashboard)
@@ -139,7 +138,6 @@ online-retail-powerbi/
 │
 ├── docs/ 
    ├── PROJECT_DOCUMENTATION.md
-   ├── ETL_PIPELINE.md
    └── DAX_FORMULAS.md
    
 
